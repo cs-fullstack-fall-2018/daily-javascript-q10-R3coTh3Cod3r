@@ -10,3 +10,4 @@ Choose the correct answer
 4) var 98_382_grades = [];
 
 WRITE YOUR ANSWER HERE
+The answer is 1 because it is the only code that does not identify as a value.
